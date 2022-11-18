@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-16T20:28:45 IST" name="Default suite" finished-at="2022-11-16T20:29:01 IST" duration-ms="16037">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T20:28:45 IST" name="Default test" finished-at="2022-11-16T20:29:01 IST" duration-ms="16037">
+      <class name="ExtentReports.ExtentReportExample">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:44 IST" name="startTest" finished-at="2022-11-16T20:28:45 IST" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:45 IST" name="launchBrowser" finished-at="2022-11-16T20:28:54 IST" duration-ms="9248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="getTitle()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:54 IST" name="getTitle" finished-at="2022-11-16T20:28:54 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method signature="loginToOrangeHRM()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:54 IST" name="loginToOrangeHRM" finished-at="2022-11-16T20:28:57 IST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOrangeHRM -->
+        <test-method is-config="true" signature="getTitle()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:58 IST" name="getTitle" finished-at="2022-11-16T20:28:58 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method signature="clickPaulsam()[pri:1, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:58 IST" name="clickPaulsam" finished-at="2022-11-16T20:28:58 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPaulsam -->
+        <test-method is-config="true" signature="getTitle()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:58 IST" name="getTitle" finished-at="2022-11-16T20:28:58 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method signature="clickLogout()[pri:2, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:28:58 IST" name="clickLogout" finished-at="2022-11-16T20:29:00 IST" duration-ms="1546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:29:00 IST" name="endTest" finished-at="2022-11-16T20:29:01 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ExtentReports.ExtentReportExample@1a942c18]" started-at="2022-11-16T20:29:01 IST" name="closeBrowser" finished-at="2022-11-16T20:29:01 IST" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ExtentReports.ExtentReportExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
